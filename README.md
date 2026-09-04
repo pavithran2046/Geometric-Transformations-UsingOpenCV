@@ -72,9 +72,9 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** SAIPRASATH P
+**Name:** PAVITHRAN S
 
-### Register No:212224230238
+### Register No:212223240113
 
 ---
 
