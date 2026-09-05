@@ -72,9 +72,9 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** TIMMAPURAM YOGEESWAR
+**Name:** PAVITHRAN S
 
-### Register No:212223230233
+### Register No:212223240113
 
 ---
 
